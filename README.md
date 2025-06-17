@@ -1,2 +1,3 @@
 # ShopCart
-It's a e-commerce project, 
+
+This is my Laravel eCommerce project.
